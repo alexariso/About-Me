@@ -1,11 +1,12 @@
-# About-Me
-Alexa Riso
+# Alexa Riso
 SUMMARY
 Finance major with experience in office administration, billing, and holding leadership positions. Excellent written and verbal communication skills and the ability to work with teams.
+
 
 EDUCATION
 Lehigh University, Bethlehem, PA						Expected May 2023
 Bachelor of Arts in Finance; Minor in Psychology				GPA: 3.5
+
 
 WORK EXPERIENCE
 Billing and Office Administer						November 2018 - August 2019
@@ -17,7 +18,7 @@ Minisink Swim and Tennis Club, Chatham, NJ
 Dealt with payment and catered to the needs of club members by taking orders and cooking food orders. 
 
 
-Leadership Experience
+LEADERSHIP EXPERIENCE
 
 President								June 2018 - June 2019
 Play Unified Club, Chatham, NJ
@@ -28,14 +29,14 @@ Corpus Christi Parish, Chatham, NJ
 Worked in groups with 7-8 other high schoolers to organize and execute 3 retreats per year for 60-80 middle schoolers. 
 
 
-Community Involvement
+COMMUNITY INVOLVEMENT
 
 Volunteer, Community Service Office, Lehigh University			August 2019 - Present
 Volunteer, Best Buddies, Lehigh University					August 2019 - Present
 Volunteer, Habitat For Humanity, Lehigh University				August 2019 - Present
 
 
-Skills
+SKILLS
 
 Computer: Social Media, Microsoft Excel, Powerpoint, Word
 Language: Spanish (Intermediate Level)
